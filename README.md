@@ -1,6 +1,6 @@
 # Bottle_Cap_Detection_YOLOv8
 
-This google colab code is implementation of the below youtube video (Automatic labeling of images using foundation model like Grounding DINO and Grounding Segment Anything Mask:-
+This google colab code is implementation of the below youtube video (Automatic labeling of images using foundation model like Grounding DINO and Grounding Segment Anything Mask):-
 
 https://youtu.be/7tuXEvZ2YNw?feature=shared
 
